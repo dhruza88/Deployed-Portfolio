@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    
+
+}
+
+header {
+    background-color: rgba(73, 73, 73, 0.669);
+    color: blue;
+    padding: 10px;
+}
+
+
+
+
+body header div {
+    display: inline-block;
+    background-color: aqua;
+    width: 25%;
+}
+ body header div h1 {
+    font-size: 48px;
+    color: black;
+    font-weight: bold;
+    text-align:right;
+ }
+
+
+
+nav {
+    display: inline-block;
+    text-align: right;
+    width: 74%;
+    padding-right: 5%;
+    /*width:fit-content;
+    display:inline-flex;
+    justify-content: flex-end;
+    */
+}
+
+nav a {
+    margin: 20px;
+    justify-content: center;
+    color:aqua;
+    font-size: 24px;
+    
+}
+#bannerSection {
+  background-image: url('https://t3.ftcdn.net/jpg/02/63/87/38/240_F_263873894_r62cfxJlLqLegYLLdcEOL1u69JDd1bfi.jpg'); 
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 250px;
+}
+#subtitle{
+    display:inline-block;
+    height: 20%;
+    background-color: aqua;
+    font-size: 28px;
+    font-weight: bold;
+    position: relative;
+    margin-top: 13%;
+    margin-left: 70%;
+}
+
+.col-1 {
+    width: 18%;
+    border-right: 5px solid navy;
+    /*border-image-repeat:stretch; Need to Repeat border along different box images, isn't working */
+    display:inline-block;
+    text-align:right;
+}
+
+#About-Me-Label .col-1 span,
+#Work-Label .col-1 span,
+#Contact-Me-Label .col-1 span {
+    font-size:  60px;
+    font-weight: bold;
+    color:rgba(19, 67, 211, 0.954);
+  
+    
+    
+}
+
+#About-Me-Label .col-2 ,
+#Work-Label .col-2 ,
+#Contact-Me-Label .col-2 
+ {
+    display:inline-block;
+    width: 75%;
+    padding-left: 50px;
+    vertical-align:top;
+}
+
+#Contact-Me-Label .col-2{
+    width:74%;
+    color:rgba(19, 67, 211, 0.954);
+    font-size: 20px;
+    /*border-bottom: 5px solid navy;*/
+    text-align:center;
+    word-spacing: 100px;
+    
+}
+
+.box1{
+    height: 150px;
+    display: inline-block;
+    width:100%;
+    background-color:orange;
+    border: 5px solid aqua;
+    
+}
+
+.box2,
+.box3,
+.box4,
+.box5{
+    display: inline-block;
+    width: 49%;
+    height:150px;
+    background-color:yellow;
+    border: 5px solid aqua;
+
+}
+
+#Work-Label .col-2 .box1 .span,
+#Work-Label .col-2 .box2 .span,
+#Work-Label .col-2 .box3 .span,
+#Work-Label .col-2 .box4 .span,
+#Work-Label .col-2 .box5 .span{
+    text-align:left;
+    background-color:aqua;
+    font-size: 24px;
+    font-weight:bold;
+}
