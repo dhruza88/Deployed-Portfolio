@@ -287,10 +287,16 @@ img{
     .box2, .box3, .box4, .box5 {
         width: 48.25%;
     }
-
+    
+    #About-Me-Label .col-1 span,
+    #Work-Label .col-1 span,
     #Contact-Me-Label .col-1 span {
-        font-size: 1.4em !important;
+        font-size: 1.1em;
     }
+
+    /*#Contact-Me-Label .col-1 span {
+        font-size: 1.4em !important;
+    }*/
 
     #Contact-Me-Label .col-2 {
         padding-top: 1%;
