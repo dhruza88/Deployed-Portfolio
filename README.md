@@ -15,3 +15,6 @@ Link to Page
 https://dhruza88.github.io/Deployed-Portfolio/
 
 Screenshots Below:
+
+https://github.com/dhruza88/Deployed-Portfolio/blob/main/images/ss-1.png
+https://github.com/dhruza88/Deployed-Portfolio/blob/main/images/ss-2.png
