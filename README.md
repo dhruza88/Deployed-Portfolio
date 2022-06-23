@@ -9,3 +9,8 @@ Testing my understanding of an adjustable screen also, so while using different 
 Between text styling, boxshadow, aligning of elements, using the hover feature, this project incorporated of all the different CSS elements shown to us thus far, and even more that required some research and reading.
 
 Key Note: Project 5 links to google as at the moment i only had 4 different projects uploaded onto github.
+
+Link to Page
+https://dhruza88.github.io/Deployed-Portfolio/
+
+Screenshots Below:
