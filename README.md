@@ -7,3 +7,5 @@ This assignment forced me into understanding spacing, margin and various other c
 Testing my understanding of an adjustable screen also, so while using different devices, the outlook of the page isn't distorted because its not a traditional screen size.
 
 Between text styling, boxshadow, aligning of elements, using the hover feature, this project incorporated of all the different CSS elements shown to us thus far, and even more that required some research and reading.
+
+Key Note: Project 5 links to google as at the moment i only had 4 different projects uploaded onto github.
