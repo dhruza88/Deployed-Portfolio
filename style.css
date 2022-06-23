@@ -243,14 +243,14 @@ img{
 
 .project-name{
     position:static;
-    height:75px;
-    width:125px;
+    height:5em;
+    width:8em;
     background-color:aqua;
     color:black;
-    font-size:16px;
+    font-size:1em;
     z-index:3;
-    margin-top:45px;
-    padding-top:22.5px;
+    margin-top:2.75em;
+    padding-top:1.75em;
 
 }
 
@@ -270,14 +270,16 @@ img{
     border-bottom: 0.25em solid black;
     padding-bottom: 1%;
     line-height: 1.7em;
+    
 }
 
 @media screen and (max-width: 850px) {
     nav a {
         font-size: 1em !important;
     }
+ 
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 670px) {
     /* main {
         width: 70vw !important;
     } */
@@ -297,6 +299,14 @@ img{
         font-size: 0.75em !important;
         line-height: 1em !important;
     }
+    .project-name{
+        height:4em;
+        width:7em;
+        font-size:.5em;
+        margin-top:9em;
+        padding-top:.5em;
+    }
+   
   
 }
 
